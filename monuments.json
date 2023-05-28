@@ -1,0 +1,76 @@
+{
+    "monuments": [
+        {
+            "name": "humayun tomb",
+            "location": "Delhi",
+            "description": "Humayun's Tomb is a mausoleum built for the Mughal Emperor Humayun...",
+            "image": "https://example.com/images/humayuns-tomb.jpg"
+        },
+        {
+            "name": "red fort",
+            "location": "Delhi",
+            "description": "The Red Fort is a historic fort complex in Old Delhi...",
+            "image": "https://example.com/images/red-fort.jpg"
+        },
+        {
+            "name": "qutub minar",
+            "location": "Delhi",
+            "description": "Qutub Minar is a towering minaret in the Qutub complex...",
+            "image": "https://example.com/images/qutub-minar.jpg"
+        },
+        {
+            "name": "jorasanko thakur bari",
+            "location": "Kolkata, West Bengal",
+            "description": "Jorasanko Thakur Bari is the ancestral home of the Tagore family...",
+            "image": "https://example.com/images/jorasanko-thakur-bari.jpg"
+        },
+        {
+            "name": "indian museum",
+            "location": "Kolkata, West Bengal",
+            "description": "The Indian Museum is the largest and oldest museum in India...",
+            "image": "https://example.com/images/indian-museum.jpg"
+        },
+        {
+            "name": "victoria memorial",
+            "location": "Kolkata, West Bengal",
+            "description": "The Victoria Memorial is a large marble building in Kolkata...",
+            "image": "https://example.com/images/victoria-memorial.jpg"
+        },
+        {
+            "name": "amber palace",
+            "location": "Jaipur, Rajasthan",
+            "description": "Amber Palace is a UNESCO World Heritage Site...",
+            "image": "https://example.com/images/amber-palace.jpg"
+        },
+        {
+            "name": "hawa mahal",
+            "location": "Jaipur, Rajasthan",
+            "description": "Hawa Mahal, also known as the 'Palace of Winds,' is a unique five-story...",
+            "image": "https://example.com/images/hawa-mahal.jpg"
+        },
+        {
+            "name": "jantar mantar",
+            "location": "Jaipur, Rajasthan",
+            "description": "Jantar Mantar is an astronomical observatory...",
+            "image": "https://example.com/images/jantar-mantar.jpg"
+        },
+        {
+            "name": "falaknuma palace",
+            "location": "Hyderabad, Telangana",
+            "description": "Falaknuma Palace is a grand palace...",
+            "image": "https://example.com/images/falaknuma-palace.jpg"
+        },
+        {
+            "name": "golconda fort",
+            "location": "Hyderabad, Telangana",
+            "description": "Golconda Fort is a historic fort complex...",
+            "image": "https://example.com/images/golconda-fort.jpg"
+        },
+        {
+            "name": "chowmahalla palace",
+            "location": "Hyderabad, Telangana",
+            "description": "Chowmahalla Palace is a palace...",
+            "image": "https://example.com/images/chowmahalla-palace.jpg"
+        }
+    ]
+}

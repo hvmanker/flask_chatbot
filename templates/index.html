@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Tourism Chatbot</title>
+  </head>
+  <body>
+    <h1>Welcome to the Tourism Chatbot</h1>
+
+    <form method="post" action="/chatbot">
+      <input type="text" name="user_input" />
+      <input type="submit" value="Send" />
+    </form>
+
+    {% for item in response %}
+    <div class="message">
+      <p class="user-message">{{ item.user }}</p>
+      <p class="bot-message">{{ item.bot }}</p>
+    </div>
+    {% endfor %}
+  </body>
+</html>
